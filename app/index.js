@@ -1,4 +1,5 @@
 import _ from 'lodash';
+import app from './app.js';
 import '../styles/base.css'
 
 function component() {
